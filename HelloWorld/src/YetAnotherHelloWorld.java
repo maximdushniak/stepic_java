@@ -5,7 +5,7 @@
  * @version 1.0
  */
 public class YetAnotherHelloWorld {
-    public static void main(String[] args) {
+    public static void main(String[] cmdLineArgs) {
         System.out.println("Hello world");
         //single line comment
 
