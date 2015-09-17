@@ -1,5 +1,6 @@
 /**
  * Prints <code>Hello world</>
+ *
  * @author Max
  * @version 1.0
  */
